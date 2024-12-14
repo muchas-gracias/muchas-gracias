@@ -2,7 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ============================================================================================================================
 
 * 🌍  I'm based in San Antonio, TX
-* ✉️  You can contact me at [thegregorynelson@protonmail.com](mailto:thegregorynelson@protonmail.com)
 * 🧠  I'm learning Ruby on Rails
 
 ### Skills
