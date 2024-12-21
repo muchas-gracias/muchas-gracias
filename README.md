@@ -1,4 +1,6 @@
-Hi ![My Picture](./image0.png) My name is Greg
+![My Picture](./image0.png) 
+
+Hello....I'm Greg
 ============================================================================================================================
 
 * 🌍  I'm based in San Antonio, TX 
