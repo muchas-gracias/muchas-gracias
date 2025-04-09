@@ -6,7 +6,8 @@ Hello....I'm Greg
 ============================================================================================================================
 
 * 🌍  I'm based in San Antonio, TX 
-* 🧠  I'm learning Ruby on Rails
+* 🧠  I'm perfecting my Python and Ruby, while experimenting with Go.  Lover of relational databases (MySQL and PostgreSQL)
+
 
 ### Skills
 
